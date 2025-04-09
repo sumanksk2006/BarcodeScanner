@@ -10,3 +10,9 @@ Sample App is created with SwiftUI and app shares scannerType and window's rootV
 
 Once the scan is done, All the scanned barcodes in the session would be presented on home screen.
 
+https://github.com/user-attachments/assets/12047708-ba69-4b5b-a92d-f6de7b7d585e
+
+Please check SDK documentation for more details
+
+
+
